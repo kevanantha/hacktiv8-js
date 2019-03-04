@@ -1,0 +1,26 @@
+h1 {
+  color: green;
+  font-style: italic;
+  background: #1a1a1a;
+}
+
+strong {
+  color: green;
+}
+
+.border {
+  border: solid 1px yellow;
+  border-radius: 15px;
+}
+
+.email {
+  border-radius: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.bg-red {
+  background: red;
+}
